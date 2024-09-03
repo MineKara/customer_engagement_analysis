@@ -1,4 +1,4 @@
-# Data Analysis and Visualization Dashboard
+# Customer Engagement Analysis & Visualization Dashboard
 
 This project involves creating a multi-page data analysis and visualization dashboard using SQL and Tableau. The dashboard provides insights into student engagement, course popularity, registration trends, and more for an e-learning platform. The project utilizes SQL for data retrieval and manipulation, and Tableau for data visualization and dashboard creation.
 
